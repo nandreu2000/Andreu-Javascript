@@ -1,0 +1,54 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Alineación",
+            "precio": 2800
+        },
+        {
+            "id": 2,
+            "nombre": "Balanceo",
+            "precio": 1600
+        },
+        {
+            "id": 3,
+            "nombre": "Combo Alineación y Balanceo",
+            "precio": 1000
+        },
+        {
+            "id": 4,
+            "nombre": "Pinchadura",
+            "precio": 500
+        },
+        {
+            "id": 5,
+            "nombre": "Rotación de Neumáticos",
+            "precio": 600
+        },
+        {
+            "id": 6,
+            "nombre": "Cambio de Aceite",
+            "precio": 1000
+        },
+        {
+            "id": 7,
+            "nombre": "Cambio de Filtros",
+            "precio": 2500
+        },
+        {
+            "id": 8,
+            "nombre": "Combo Cambio de filtros y aceite",
+            "precio": 3000
+        },
+        {
+            "id": 9,
+            "nombre": "Reparación de Llantas",
+            "precio": 500
+        },
+        {
+            "id": 10,
+            "nombre" : "Cambio Liquido de Frenos",
+            "precio": 1500
+        }
+    ]
+}
